@@ -15,10 +15,10 @@ Stock-Market-Predictor is a tool that allows you to predict stock prices and ana
    ```bash
    git clone https://github.com/yourusername/Stock-Market-Predictor.git
 ## Usage
-1.Enter a stock ticker symbol (e.g., AAPL, TSLA) in the sidebar.
-2.Select the date range for historical data.
-3.Choose the prediction model (Linear or Polynomial Regression).
-4.Click "Fetch Data" to see the stock data and predictions.
+- Enter a stock ticker symbol (e.g., AAPL, TSLA) in the sidebar.
+- Select the date range for historical data.
+- Choose the prediction model (Linear or Polynomial Regression).
+- Click "Fetch Data" to see the stock data and predictions.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
